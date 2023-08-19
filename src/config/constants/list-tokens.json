@@ -1,0 +1,59 @@
+{
+  "name": "makiswap",
+  "timestamp": "2022-01-29T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/main/src/tokens/maki.png",
+  "keywords": [
+    "makiswap",
+    "maki",
+    "pulsechain",
+    "pls",
+    "erc20",
+    "default",
+    "token",
+    "list"
+  ],
+  "tokens": [ 
+
+    {
+      "address": "0x57a004dc1c6103c81068fe3ecccb89a039af6450",
+      "chainId": 943,
+      "name": "StakerDAI",
+      "symbol": "sDAI",
+      "decimals": 18,
+      "logoURI": "/images/coins/MAKI.png"
+    },
+
+    {
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "chainId": 943,
+      "name": "pDAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "/images/coins/SOY.png"
+    },
+    
+    {
+      "address": "0xcF1Fc503CA35618E9b4C08b7847980b3e10FB53B",
+      "chainId": 943,
+      "name": "Wrapped Pulse",
+      "symbol": "wPLS",
+      "decimals": 18,
+      "logoURI": "/images/coins/PULSE.png"
+    },
+
+    {
+      "address": "0x3e0Ad60c6D427191D66B6D168ddeF82A66F573B0",
+      "chainId": 943,
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "/images/coins/USDT.png"
+    }
+
+  ]
+}
